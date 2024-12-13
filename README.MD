@@ -17,3 +17,5 @@ cd demo-1
 graph codegen && graph build
 graph deploy demo-1
 ```
+
+Please refer to https://thegraph.com/docs/en/deploying/deploy-using-subgraph-studio/#create-your-subgraph-in-subgraph-studio
